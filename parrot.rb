@@ -1,3 +1,3 @@
-def parrot_ruby(phrase = "Squawk")
+def parrot_ruby(phrase = "Squawk!")
   puts "#{phrase}"
   end
