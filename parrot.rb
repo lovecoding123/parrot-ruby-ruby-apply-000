@@ -3,4 +3,4 @@ def parrot_ruby(Squawk)
   return
 end
 
-parrot_ruby("wow")
+parrot_ruby("relax")
