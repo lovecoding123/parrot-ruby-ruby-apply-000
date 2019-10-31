@@ -1,6 +1,6 @@
 def parrot_ruby(Squawk)
-  puts Squawk
-   return
+  puts "Squawk"
+  return
 end
 
 parrot_ruby("wow")
