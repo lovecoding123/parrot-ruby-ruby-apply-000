@@ -1,6 +1,4 @@
-def parrot_ruby(Squawk)
-  puts "Squawk"
+def parrot_ruby(phrase = "Squawk")
+  puts "#{phrase}"
   return
 end
-
-parrot_ruby("relax")
